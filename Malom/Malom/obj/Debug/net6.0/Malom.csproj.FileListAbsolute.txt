@@ -1,0 +1,14 @@
+Z:\git_mappa\Malom\Malom\bin\Debug\net6.0\Malom.exe
+Z:\git_mappa\Malom\Malom\bin\Debug\net6.0\Malom.deps.json
+Z:\git_mappa\Malom\Malom\bin\Debug\net6.0\Malom.runtimeconfig.json
+Z:\git_mappa\Malom\Malom\bin\Debug\net6.0\Malom.dll
+Z:\git_mappa\Malom\Malom\bin\Debug\net6.0\Malom.pdb
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\Malom.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\Malom.AssemblyInfoInputs.cache
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\Malom.AssemblyInfo.cs
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\Malom.csproj.CoreCompileInputs.cache
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\Malom.dll
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\refint\Malom.dll
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\Malom.pdb
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\Malom.genruntimeconfig.cache
+Z:\git_mappa\Malom\Malom\obj\Debug\net6.0\ref\Malom.dll
